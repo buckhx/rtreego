@@ -11,7 +11,7 @@ import (
 	"sort"
 )
 
-const Dim = 3
+const Dim = 2
 
 // Rtree represents an R-tree, a balanced search tree for storing and querying
 // spatial objects.  MinChildren/MaxChildren specify the minimum/maximum branching factors.
